@@ -1,0 +1,12 @@
+appId: bkash.com.MaestroTest
+---
+- launchApp:
+    appId: bkash.com.MaestroTest
+- tapOn:
+    id: "incrementButton"
+- tapOn:
+    id: "incrementButton"
+- tapOn:
+    id: "incrementButton"
+- assertVisible:
+    id: "counterValue"
