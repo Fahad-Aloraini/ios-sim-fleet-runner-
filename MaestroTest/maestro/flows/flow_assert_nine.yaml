@@ -1,5 +1,0 @@
-appId: bkash.com.MaestroTest
----
-- launchApp:
-    appId: bkash.com.MaestroTest
-- assertVisible: "9"

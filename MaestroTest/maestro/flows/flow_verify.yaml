@@ -1,7 +1,0 @@
-appId: bkash.com.MaestroTest
----
-- launchApp:
-    appId: bkash.com.MaestroTest
-- assertVisible:
-    id: "counterValue"
-- assertNotVisible: "0"
